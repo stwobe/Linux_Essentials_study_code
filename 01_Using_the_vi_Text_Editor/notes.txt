@@ -1,1 +1,1 @@
-# This folder contains code from the Basic Shell Scripting section
+# This folder will contain solution to the exercise related to using the vi text editor
